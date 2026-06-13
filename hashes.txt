@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas sobre el altar
+
+This log tracks the cryptographic history and versioning for the song **Promesas sobre el altar** (promesas-sobre-el-altar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:31:51.137633 | `v1` | `db438df3704d68e8f720a3770e4326bac5b1efc990f7be2eaa9d0b7a450566c3` | `f3c826ef2e0fd60f7d36a3e46ffb3ac05f1d7905ae989e329d54c4dd55c0e511` | `2026-06-14_promesas-sobre-el-altar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-sobre-el-altar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Promesas sobre el altar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-sobre-el-altar/) |
+| **Get License** | [License this song: Promesas sobre el altar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-sobre-el-altar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `db438df3704d68e8f720a3770e4326bac5b1efc990f7be2eaa9d0b7a450566c3` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
