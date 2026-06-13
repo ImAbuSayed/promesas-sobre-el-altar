@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-sobre-el-altar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Promesas sobre el altar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-sobre-el-altar/) |
+| **Get License** | [Music Rights & Licensing for Promesas sobre el altar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-sobre-el-altar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya a mí me tiene loco
+> Acércate, mami, que yo me desenfoco
+> Promesas sobre el altar pa' convencerte
+> Esta noche tú eres mía, baby, you get it?
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
